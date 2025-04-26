@@ -9,7 +9,7 @@
 
 ## Instructions
 - Install the above libraries using pip.
-- run the python file chatbot.py
+- run the python file chatbot.py using command `python chatbot.py`.
 - It should fire up a simple chat interface on web.
 - Enter message and wait for the chat bot to reply.
 
